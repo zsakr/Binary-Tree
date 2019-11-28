@@ -1,5 +1,6 @@
 /** 
  * A tester class for the Binary Tree ADT
+ * @author Ziad Sakr
  *
  */
 
