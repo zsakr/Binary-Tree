@@ -22,19 +22,33 @@ public static <E> void recPrintPreorder(AbstractBinaryTree<E> T, Position<E> p){
 
 # Preorder
   Algorithm preorder(p)
+  
       Perform the visit action on p
+      
       for each child c in children(p) do 
+      
             preorder(c)
+            
 # Postorder
+
   Algorithm postorder(p)
+  
       for each child c in children(p) do 
+      
               postorder(c)
+              
          Perform the visit action on p
+         
 # Inorder
    Algorithm inorder(p)
+   
       if p has a left child lc then 
+      
           inorder(lc)
+          
       Perform the visit action on p 
+      
       if p has a right child rc then 
+      
           inorder(rc)
 
