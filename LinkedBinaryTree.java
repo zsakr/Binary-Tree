@@ -4,6 +4,7 @@
  * @author Michael T. Goodrich
  * @author Roberto Tamassia
  * @author Michael H. Goldwasser
+ * @author Ziad Sakr
  */
 public class LinkedBinaryTree<E> extends AbstractBinaryTree<E> {
 
