@@ -13,6 +13,7 @@ import java.util.ArrayList;    // for use as snapshot iterator
  * @author Michael T. Goodrich
  * @author Roberto Tamassia
  * @author Michael H. Goldwasser
+ *@author Ziad Sakr
  */
 public abstract class AbstractTree<E> implements Tree<E> {
 
