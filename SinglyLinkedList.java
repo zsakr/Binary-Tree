@@ -4,6 +4,7 @@
  * @author Michael T. Goodrich
  * @author Roberto Tamassia
  * @author Michael H. Goldwasser
+  * @author Ziad Sakr
  */
 public class SinglyLinkedList<E> implements Cloneable {
   //---------------- nested Node class ----------------
