@@ -10,6 +10,7 @@ import java.util.ArrayList;
  * @author Michael T. Goodrich
  * @author Roberto Tamassia
  * @author Michael H. Goldwasser
+ * @author Ziad Sakr
  */
 public abstract class AbstractBinaryTree<E> extends AbstractTree<E>
                                              implements BinaryTree<E> {
