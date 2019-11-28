@@ -5,6 +5,7 @@
  * @author Michael T. Goodrich
  * @author Roberto Tamassia
  * @author Michael H. Goldwasser
+  * @author Ziad Sakr
  * @see SinglyLinkedList
  */
 public class LinkedQueue<E> implements Queue<E> {
