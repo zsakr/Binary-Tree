@@ -4,6 +4,7 @@
  * @author Michael T. Goodrich
  * @author Roberto Tamassia
  * @author Michael H. Goldwasser
+  *@author Ziad Sakr
  */
 public interface BinaryTree<E> extends Tree<E> {
 
