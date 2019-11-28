@@ -2,10 +2,7 @@ import java.util.Iterator;
 
 /**
  * An interface for a tree where nodes can have an arbitrary number of children.
- *
- * @author Michael T. Goodrich
- * @author Roberto Tamassia
- * @author Michael H. Goldwasser
+ * @author Ziad Sakr
  */
 public interface Tree<E> extends Iterable<E> {
 
